@@ -6,4 +6,4 @@ Aplikasi ini didesain dengan antarmuka yang intuitif dan menarik, menggunakan wi
 
 Aplikasi ini terhubung dengan API berita yang terpercaya dan dapat diandalkan untuk mengambil konten berita secara real-time. Integrasi ini memastikan bahwa pengguna mendapatkan informasi terbaru dan akurat setiap saat.
 
-Berikut video demo aplkasi : https://drive.google.com/drive/folders/1Ok4BP4KrugU9knMk3Z8MHfZwhOTLQWCu
+Berikut video demo aplkasi dan laporan aplikasi : https://drive.google.com/drive/folders/1Ok4BP4KrugU9knMk3Z8MHfZwhOTLQWCu
